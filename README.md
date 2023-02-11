@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anjali Rajapaksha</h1>
 <h3 align="center">Software Engineering Student</h3>
 
+<img src="https://mishpacha.com/wp-content/uploads/2022/07/So-You-Want-to-Be-a%E2%80%A6-Web-Developer-R.jpg">
+
 - 🌱 I’m currently learning **at IJSE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalirajapakshar](https://github.com/anjalirajapakshar)
